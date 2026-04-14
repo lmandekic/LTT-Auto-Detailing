@@ -90,7 +90,7 @@ p { color: var(--text-muted); }
 }
 
 .logo-link { display: flex; align-items: center; gap: .75rem; }
-.logo-link img { height: 99px; width: auto; }
+.logo-link img { height: 68px; width: auto; }
 .logo-link:hover { color: var(--text); }
 
 .nav { display: flex; align-items: center; gap: 2rem; }
